@@ -2,6 +2,4 @@ asdasdsad
 asdasd
 asdasd
 
-asidaosid
-aspdamspdasd
-asdmaosd
+este cambio va para dev 1
